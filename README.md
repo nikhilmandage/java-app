@@ -92,3 +92,5 @@ JDBC connectivity errors	Corrected VPC settings and added MySQL Connector to Tom
 Routing issues via proxy	Configured Nginx with proper proxy_pass rules
 
 
+name- Nikhil Mandage
+fortune clouds
